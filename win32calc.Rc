@@ -1,0 +1,2 @@
+#include "Res/calc_historyDlg.rc"
+#include "Res/win32calcDlg.rc"
